@@ -28,10 +28,17 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Didier_order";
+            SuspendLayout();
+            // 
+            // Didier_order
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(1338, 686);
+            FormBorderStyle = FormBorderStyle.None;
+            Name = "Didier_order";
+            Text = "Didier_order";
+            ResumeLayout(false);
         }
 
         #endregion
