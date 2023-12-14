@@ -25,7 +25,7 @@ namespace FacturationGroupe1.DAL
             var connectionString = "server=localhost;user=root;password=;database=bd_gestion_facturation";
             var ServerConnection = new MySqlServerVersion(new Version(5,7,36));
             optionsBuilder.UseMySql(connectionString, ServerConnection);
-           // base.OnConfiguring(optionsBuilder);
+            base.OnConfiguring(optionsBuilder);
         }
     }
 }

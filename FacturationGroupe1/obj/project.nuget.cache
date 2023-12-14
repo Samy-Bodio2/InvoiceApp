@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "AXUptTI0kVcg9MqcC4CCiDBsAUW1iwPymZwl4tRkFCYSopNWWdSgupZO3J2AFUG5RrP6vDR1WY6VBmM4Pygf8g==",
+  "dgSpecHash": "2mnM5I+zT74vnsAS0pWSFnbpabEryDOVdVn3tdymdOMi+tj1kaUsKEDdqwngMdrpdnC6kRNqiqdQ0zlVgbVZDg==",
   "success": true,
   "projectFilePath": "C:\\Users\\CLIENT\\source\\repos\\FacturationGroupe1\\FacturationGroupe1\\FacturationGroupe1.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\CLIENT\\.nuget\\packages\\fontawesome\\4.7.0\\fontawesome.4.7.0.nupkg.sha512",
     "C:\\Users\\CLIENT\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
     "C:\\Users\\CLIENT\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\CLIENT\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.14\\microsoft.entityframeworkcore.7.0.14.nupkg.sha512",

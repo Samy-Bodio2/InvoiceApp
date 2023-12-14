@@ -37,3 +37,7 @@ C:\Users\CLIENT\source\repos\FacturationGroupe1\FacturationGroupe1\obj\Debug\net
 C:\Users\CLIENT\source\repos\FacturationGroupe1\FacturationGroupe1\obj\Debug\net8.0-windows\FacturationGroupe1.pdb
 C:\Users\CLIENT\source\repos\FacturationGroupe1\FacturationGroupe1\obj\Debug\net8.0-windows\FacturationGroupe1.genruntimeconfig.cache
 C:\Users\CLIENT\source\repos\FacturationGroupe1\FacturationGroupe1\obj\Debug\net8.0-windows\ref\FacturationGroupe1.dll
+C:\Users\CLIENT\source\repos\FacturationGroupe1\FacturationGroupe1\obj\Debug\net8.0-windows\FacturationGroupe1.sourcelink.json
+C:\Users\CLIENT\source\repos\FacturationGroupe1\FacturationGroupe1\obj\Debug\net8.0-windows\FacturationGroupe1.Properties.Resources.resources
+C:\Users\CLIENT\source\repos\FacturationGroupe1\FacturationGroupe1\obj\Debug\net8.0-windows\FacturationGroupe1.Views.Login.resources
+C:\Users\CLIENT\source\repos\FacturationGroupe1\FacturationGroupe1\obj\Debug\net8.0-windows\FacturationGroupe1.Views.SignUp.resources
