@@ -41,3 +41,10 @@ C:\Users\CLIENT\source\repos\FacturationGroupe1\FacturationGroupe1\obj\Debug\net
 C:\Users\CLIENT\source\repos\FacturationGroupe1\FacturationGroupe1\obj\Debug\net8.0-windows\FacturationGroupe1.Properties.Resources.resources
 C:\Users\CLIENT\source\repos\FacturationGroupe1\FacturationGroupe1\obj\Debug\net8.0-windows\FacturationGroupe1.Views.Login.resources
 C:\Users\CLIENT\source\repos\FacturationGroupe1\FacturationGroupe1\obj\Debug\net8.0-windows\FacturationGroupe1.Views.SignUp.resources
+C:\Users\CLIENT\source\repos\FacturationGroupe1\FacturationGroupe1\obj\Debug\net8.0-windows\FacturationGroupe1.Views.Batiment_Clients.resources
+C:\Users\CLIENT\source\repos\FacturationGroupe1\FacturationGroupe1\obj\Debug\net8.0-windows\FacturationGroupe1.Views.Cash_AddClient.resources
+C:\Users\CLIENT\source\repos\FacturationGroupe1\FacturationGroupe1\obj\Debug\net8.0-windows\FacturationGroupe1.Views.Danicha_Report.resources
+C:\Users\CLIENT\source\repos\FacturationGroupe1\FacturationGroupe1\obj\Debug\net8.0-windows\FacturationGroupe1.Views.Didier_order.resources
+C:\Users\CLIENT\source\repos\FacturationGroupe1\FacturationGroupe1\obj\Debug\net8.0-windows\FacturationGroupe1.Views.FrankUtchiwa_invoice.resources
+C:\Users\CLIENT\source\repos\FacturationGroupe1\FacturationGroupe1\obj\Debug\net8.0-windows\FacturationGroupe1.Views.Sammy_DeleteClient.resources
+C:\Users\CLIENT\source\repos\FacturationGroupe1\FacturationGroupe1\obj\Debug\net8.0-windows\FacturationGroupe1.Views.Sammy_threshold.resources
